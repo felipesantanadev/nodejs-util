@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-util",
+  "version": "1.0.0",
+  "description": "Only some Node JS utilities.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipesantanadev/nodejs-util.git"
+  },
+  "author": "Felipe Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipesantanadev/nodejs-util/issues"
+  },
+  "homepage": "https://github.com/felipesantanadev/nodejs-util#readme"
+}
